@@ -12,5 +12,5 @@ This code is test of working with MySQL,Spring and Java 11.
 # ToDo #
 - [x] Создать коллекцию запросов в Postman 
 - [x] Создать репозиторий 
-- [ ] Создать ветку expiremental 
+- [ ] Создать ветку experimental 
 - [x] Написать README 
