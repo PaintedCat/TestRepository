@@ -1,12 +1,16 @@
 # TestRepository #
 ## My first Java 11 code
 ### My first application with MySQL
-Just text
-* something
-* blablabla
-*    hello
-1. Numered text
-2. again
+This code is test of working with MySQL,Spring and Java 11.
+## Requests:
+### GET /all:return all phrases
+### GET /phr?id=(long):return phrase by id
+### POST /add?Phrase=(String):add phrase
+### PUT /set?id=(long)&Phrase=(String):change phrase
+### DELETE /delete?id=(long):delete phrase
 
-![cat](https://d2ph5fj80uercy.cloudfront.net/06/cat3425.jpg)
-
+# ToDo #
+- [x] Создать коллекцию запросов в Postman 
+- [x] Создать репозиторий 
+- [ ] Создать ветку expiremental 
+- [x] Написать README 
